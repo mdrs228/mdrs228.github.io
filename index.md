@@ -4,7 +4,7 @@
   
 <iframe src="https://free.timeanddate.com/countdown/i74octvf/n220/cf12/cm0/cu4/ct0/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pcbbb/tceac8d5/fs100/szw320/szh135/iso2020-04-25T23:59:59/pd2" allowTransparency="true" frameborder="0" width="130" height="30"></iframe>
     
-<br><font face="arial">April 25-May 10, 2020 (Update: Postponed due to COVID-19)</font>
+<br><font face="arial">April 25-May 10, 2020 </b><br> (Update: Postponed due to COVID-19. We will update mission dates once determined.)</font>
 </p>
 
 ![Image description](Crew.png)
