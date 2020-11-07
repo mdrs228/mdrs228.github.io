@@ -8,7 +8,7 @@ aside: false
 ---
 
 **Dr. Lindsay Rutter, Mission Commander** [![Profile on LinkedIn](picLI.png)](https://www.linkedin.com/in/lindsayrutter/)  [![Profile on GitHub](picGithub.png)](https://github.com/lindsayrutter)   
-Lindsay Rutter is a postdoctoral researcher at the University of Tsukuba near JAXA. She works in the Genome Biology Lab which sequences samples from the International Space Station to investigate how biology responds to spaceflight. She also delves into projects annotating new bacterial strains. Lindsay is a remote member of the NASA GeneLab analysis working group, which aims to maximize public access to space biology data that can be analyzed in integrated fashions.
+Lindsay Rutter is a JSPS postdoctoral fellow at the University of Tsukuba near JAXA. She works in the Genome Biology Lab which sequences samples from the International Space Station to investigate how biology responds to spaceflight. She also delves into projects annotating new bacterial strains. Lindsay is a remote member of the NASA GeneLab analysis working group, which aims to maximize public access to space biology data that can be analyzed in integrated fashions.
 
 **David Laude, Executive Officer**  
 Dave Laude is a retired micro-electronics design engineer who specialised in analog integrated circuits. By elementary school he was highly interested in electronics and space exploration. He watched Apollo 11 launch from a nearby beach and eventually met two moon walkers. He is a founding member of The Mars Society and served with MDRS Crew 80. His current interests include space exploration, music composition, theatre organs, RC airplanes, computer simulation, antique radios, hiking and camping in the U.S. desert southwest.
