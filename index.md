@@ -13,4 +13,4 @@ The MDRS 228 crew is an international crew selected by the [Mars Society](https:
 
 [![MDRS 228](https://raw.githubusercontent.com/mdrs228/mdrs228.github.io/master/sizzleReel.png)](https://youtu.be/kisycVLO6k8 "Mars Desert Research Station Crew 228")
 
-Please note: Our mission was originally set to begin in Apr 2020, but we have since postponed it to now begin in Sep 2021 due to COVID-19. 
+Please note: Our mission was originally set to begin in Apr 2020, but we postponed it to now begin in Sep 2021 due to COVID-19. 
