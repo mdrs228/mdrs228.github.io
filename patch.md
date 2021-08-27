@@ -23,7 +23,7 @@ The foreground image is of a lander arriving on the surface of Mars. Foliage ext
 
 **Flags**
 
-Our crew is drawn from seven countries – Cyprus, Italy, Japan, Lithuania, Malaysia, the United Kingdom, and the USA. The flags are arranged in alphabetical order. Each country has an equal place in our crew, hence our mission motto "*Multi terris – unus finis*" – "*Many countries – one goal*."
+Our crew is drawn from eight countries – Bangladesh, Cyprus, Italy, Japan, Lithuania, Malaysia, the United Kingdom, and the USA. The flags are arranged in alphabetical order. Each country has an equal place in our crew, hence our mission motto "*Multi terris – unus finis*" – "*Many countries – one goal*."
 
 **Crew names**
 
