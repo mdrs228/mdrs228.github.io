@@ -16,10 +16,11 @@ Crew journalist Stuart Hughes will be testing lightweight broadcast equipment fo
 
 ---
 
-**Discussing our mission with elementary students across the world**  
+**Discussing our mission with students across the world**  
 
 ![](picRoleplay.png)  
 
-We can leverage the fact that we hail from seven different nations to discuss our mission with students from across the globe, including countries underrepresented in space exploration. One program that makes it possible for us to connect with students worldwide is "Skype a Scientist".
+Commander Lindsay Rutter gave virtual presentations about our mission to elementary students (4th and 5th grade), middle school students (7th grade), and high school students (11th grade) through the program "Skype a Scientist". All together, the presentation was seen by about 250 students, many of whom sent in questions afterward. During the mission, our crew will answer all questions at least in written format. After that, we will select a subset of questions and answer them in an engaging video format!
+
 
 
