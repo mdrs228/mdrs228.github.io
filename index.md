@@ -1,8 +1,8 @@
 <p align="center" style="padding: 10px; color: Gainsboro; background-color: MidnightBlue">
-  
+
 <font face="arial"><b>Mission Countdown</b><br></font>
   
-<font face="arial" style="color:red">Countdown complete. The Areonauts have landed on Mars!<br></font>
+<font face="arial">Countdown complete. The Areonauts have landed on Mars!<br></font>
 
 <font face="arial">Sep 26-Oct 9, 2021</font>
 </p>
