@@ -2,9 +2,9 @@
   
 <font face="arial"><b>Mission Countdown</b><br></font>
   
-<font face="arial" style="color:red"><b>Countdown complete. We have landed on Mars.</b><br></font>
+<font face="arial" style="color:red">Countdown complete. The Areonauts have landed on Mars!</b><br></font>
 
-<br><font face="arial">Sep 26-Oct 9, 2021</font>
+<font face="arial">Sep 26-Oct 9, 2021</font>
 </p>
 
 ![Image description](Crew.png)
