@@ -1,8 +1,8 @@
 <p align="center" style="padding: 10px; color: Gainsboro; background-color: MidnightBlue">
   
-  <font face="arial"><b>Mission Countdown</b><br></font>
+  <font style="color:red;" face="arial"><b>Mission Countdown</b><br></font>
   
-<font face="arial"><b>Countdown complete. We have landed on Mars.</b><br></font>
+<font face="arial">Countdown complete. We have landed on Mars.</b><br></font>
 
 <br><font face="arial">Sep 26-Oct 9, 2021</font>
 </p>
