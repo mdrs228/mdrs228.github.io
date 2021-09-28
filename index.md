@@ -1,6 +1,6 @@
 <p align="center" style="padding: 10px; color: Gainsboro; background-color: MidnightBlue">
   
-<font face="arial"><b>Mission Countdown</b><br></font>
+<font face="arial"><b>Mission Countdown<br></font>
   
 <font face="arial" style="color:red">Countdown complete. The Areonauts have landed on Mars!</b><br></font>
 
