@@ -119,14 +119,9 @@ navigation_header:
 - title: Contact
   url: /contact/
 
-navigation_footer:
-- title: Contact webmaster
-  url: https://github.com/lindsayrutter
-
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/mdrs228
   #LinkedIn: https://www.linkedin.com/in/mdrs228
-  GitHub: https://github.com/lindsayrutter
   #link: https://mdrs228
   # RSS: /feed.xml
 
