@@ -7,8 +7,8 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
 
-**Dr. Lindsay Rutter, Mission Commander** [![Profile on LinkedIn](picLI.png)](https://www.linkedin.com/in/lindsayrutter/)  [![Profile on GitHub](picGithub.png)](https://github.com/lindsayrutter)   
-Lindsay Rutter is a JSPS postdoctoral fellow at the University of Tsukuba near JAXA. She conducts astrobiology-themed life detection projects and analyzes samples from the ISS to investigate how biology responds to spaceflight. Lindsay is a co-founder and co-chair of ISSOP (International Standards for Space Omics Processing), a remote member of the NASA GeneLab analysis working group, and an affiliate member of NfoLD (Network for Life Detection).
+**Dr. Lindsay Rutter, Mission Commander**  
+Lindsay Rutter is a JSPS postdoctoral fellow at the University of Tsukuba near JAXA. She conducts planetary life detection projects and investigates how biology responds to spaceflight. Lindsay is a co-founder and co-chair of ISSOP (International Standards for Space Omics Processing), a NASA GeneLab analysis working group member, and an NfoLD (Network for Life Detection) affiliate member.
 
 **David Laude, Executive Officer/Crew Engineer**  
 Dave Laude is a retired micro-electronics design engineer who specialised in analog integrated circuits. By elementary school he was highly interested in electronics and space exploration. He watched Apollo 11 launch from a nearby beach and eventually met two moon walkers. He is a founding member of The Mars Society and served with MDRS Crew 80. His current interests include space exploration, music composition, theatre organs, RC airplanes, computer simulation, antique radios, hiking and camping in the U.S. desert southwest.
