@@ -97,7 +97,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   180: '/assets/logos/logo@180px.png'
   512: '/assets/logos/logo@512px.png'
   1024: '/assets/logos/logo@1024px.png'
-
+  
 # 9. Site navigation
 navigation_header:
 - title: Home
@@ -118,6 +118,10 @@ navigation_header:
   url: /merch/
 - title: Contact
   url: /contact/
+
+navigation_footer:
+#- title: Contact webmaster
+#  url: https://github.com/lindsayrutter
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/mdrs228
